@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    background-color: #e3f6f5;
+}
+
+.title{
+    display: flex;
+    justify-content: space-between;
+    background-color: #272643;
+    padding: 15 px;
+    font-size: 20 px;
+    font-family: sans-seriff;
+    font-weight: 400;
+    color: #ffffff;
+}
+.aboutMestuff{
+    margin: 0px;
+    background-color: #2c698d;
+    font-size: 20 px;
+    font-family: sans-seriff;
+    font-weight: 400;
+    color: #ffffff;
+}
+a{
+    color:#ffffff;
+}
